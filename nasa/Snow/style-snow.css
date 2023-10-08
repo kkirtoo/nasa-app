@@ -1,0 +1,143 @@
+.snow {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .snow .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1080px;
+    width: 1920px;
+  }
+  
+  .snow .overlap {
+    background-image: url(./rectangle-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .snow .winter-is-coming {
+    height: 1080px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .snow .rectangle {
+    height: 208px;
+    left: 127px;
+    position: absolute;
+    top: 227px;
+    width: 508px;
+  }
+  
+  .snow .div {
+    background-color: #000000bf;
+    height: 767px;
+    left: 960px;
+    position: absolute;
+    top: 227px;
+    width: 815px;
+  }
+  
+  .snow .tabs {
+    height: 265px;
+    left: 131px;
+    position: absolute;
+    top: 729px;
+    width: 247px;
+  }
+  
+  .snow .line {
+    height: 253px;
+    left: -10px;
+    position: absolute;
+    top: 4px;
+    width: 10px;
+  }
+  
+  .snow .overlap-group {
+    height: 59px;
+    left: 15px;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .snow .mframe {
+    background-color: #000000bf;
+    height: 55px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 220px;
+  }
+  
+  .snow .text-wrapper {
+    color: #ffffff;
+    font-family: "Arsenal-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 223px;
+  }
+  
+  .snow .overlap-group-2 {
+    height: 59px;
+    left: 15px;
+    position: absolute;
+    top: 103px;
+    width: 223px;
+  }
+  
+  .snow .wframe {
+    background-color: #000000bf;
+    height: 55px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .snow .overlap-2 {
+    height: 63px;
+    left: 18px;
+    position: absolute;
+    top: 202px;
+    width: 223px;
+  }
+  
+  .snow .sframe {
+    background-color: #000000bf;
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .snow .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Arsenal-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4px;
+    width: 223px;
+  }
+  

@@ -1,0 +1,100 @@
+.intermission {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .intermission .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1080px;
+    width: 1920px;
+  }
+  
+  .intermission .overlap {
+    background-image: url(./1da45297276b6fd233d0cb8676ea0a85-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .intermission .ellipse {
+    height: 100px;
+    left: 1542px;
+    position: absolute;
+    top: 364px;
+    width: 100px;
+  }
+  
+  .intermission .test {
+    height: 327px;
+    left: 1265px;
+    position: absolute;
+    top: 660px;
+    width: 518px;
+  }
+  
+  .intermission .overlap-group {
+    height: 327px;
+    position: relative;
+    width: 516px;
+  }
+  
+  .intermission .text-wrapper {
+    color: #ffffff;
+    font-family: "Arsenal-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 327px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 514px;
+  }
+  
+  .intermission .rectangle {
+    background-color: #0b253059;
+    height: 323px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 516px;
+  }
+  
+  .intermission .div {
+    height: 516px;
+    left: 648px;
+    position: absolute;
+    top: 509px;
+    width: 556px;
+  }
+  
+  .intermission .rectangle-2 {
+    background-color: #0a243082;
+    height: 516px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 554px;
+  }
+  
+  .intermission .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Arsenal-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 514px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 1px;
+    width: 556px;
+  }
+  
